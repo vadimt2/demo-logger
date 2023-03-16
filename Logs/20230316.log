@@ -1,0 +1,1 @@
+{"Timestamp":"2023-03-16T11:54:52.2605633+02:00","Level":"Error","MessageTemplate":"Test","Properties":{"SourceContext":"Logger.BlService","RequestId":"0HMP60HJISC3P:00000019","RequestPath":"/weatherforecast","ConnectionId":"0HMP60HJISC3P"}}
